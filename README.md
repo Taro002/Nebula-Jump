@@ -1,9 +1,9 @@
 # 🌌 Nebula Jump
 
-![Version](https://img.shields.io/badge/version-1.0.0-blueviolet)
-![Python](https://img.shields.io/badge/Python-3.11-blue)
-![Pygame](https://img.shields.io/badge/Library-Pygame-green)
-![Status](https://img.shields.io/badge/Status-Playable-success)
+![Status](https://img.shields.io/badge/STATUS-READY-00FF7F?style=for-the-badge&logo=githubactions&logoColor=white)
+![Python](https://img.shields.io/badge/PYTHON-3.11-00CCFF?style=for-the-badge&logo=python&logoColor=white)
+![Version](https://img.shields.io/badge/VERSION-1.0.0-BD00FF?style=for-the-badge)
+![License](https://img.shields.io/badge/LICENSE-MIT-FFD700?style=for-the-badge)
 
 **Nebula Jump** is an intense, neon-styled arcade platformer. Navigate through a procedurally generated galaxy, blast through obstacles, and climb the scoreboard!
 
