@@ -63,3 +63,6 @@ If you want to explore or modify the source code:
 
 ---
 *Created with ❤️ by Taro002 - 2026*
+
+
+[![Portfolio](https://img.shields.io/badge/VISIT_MY_PORTFOLIO-TAR000-00FF7F?style=social&logo=googlechrome)](https://taro002.github.io/)
