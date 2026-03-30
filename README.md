@@ -1,5 +1,4 @@
 # 🌌 Nebula Jump
-
 ![Status](https://img.shields.io/badge/STATUS-READY-00FF7F?style=for-the-badge&logo=githubactions&logoColor=white)
 ![Python](https://img.shields.io/badge/PYTHON-3.11-00CCFF?style=for-the-badge&logo=python&logoColor=white)
 ![Version](https://img.shields.io/badge/VERSION-1.0.0-BD00FF?style=for-the-badge)
